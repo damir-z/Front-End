@@ -1,0 +1,8 @@
+backgroud {
+    background-image: url('C:\Users\User\Desktop\Frontend_project\background_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
